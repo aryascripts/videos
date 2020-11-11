@@ -1,2 +1,3 @@
-# videos
-Source code for smaller videos on https://www.youtube.com/channel/UC1DIqOKaLSRAMngq9yoayzQ
+# Videos
+Source code for smaller videos on my [YouTube Channel (AmanScripts)](https://www.youtube.com/channel/UC1DIqOKaLSRAMngq9yoayzQ)
+
